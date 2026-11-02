@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Rohith Kanna 👋
 
-<!--
-**SRohithkanna/SRohithkanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Artificial Intelligence and Data Science student at Shiv Nadar University, Chennai.
 
-Here are some ideas to get you started:
+I'm interested in building practical solutions using **AI, Machine Learning, and Full-Stack Development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm Working On
+- Building AI-powered applications using LLMs and RAG.
+- Developing full-stack web applications using the MERN stack.
+- Exploring computer vision and generative AI.
+
+### 🛠️ Tools & Technologies
+- **Languages:** Python, C++, Java, JavaScript, SQL
+- **AI/ML:** PyTorch, TensorFlow, Scikit-learn, OpenCV
+- **Web Development:** React, Node.js, Express.js, FastAPI
+- **Databases:** MongoDB, PostgreSQL
+- **Tools:** Git, GitHub, VS Code
+
+### 📫 Connect With Me
+- **GitHub:** [SRohithkanna](https://github.com/SRohithkanna)
+- **LinkedIn:** www.linkedin.com/in/rohith-kanna-6969a3277
+- **Email:** srohithkanna@gmail.com
+
+---
+
+💡 Always learning, building, and exploring new technologies.
