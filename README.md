@@ -20,7 +20,7 @@ I'm interested in building practical solutions using **AI, Machine Learning, and
 - **GitHub:** [SRohithkanna](https://github.com/SRohithkanna)
 - **LinkedIn:** www.linkedin.com/in/rohith-kanna-6969a3277
 - **Email:** srohithkanna@gmail.com
-
+- **Portfolio:** [srohithkanna@gmail.com](https://fantastic-sherbet-e309fc.netlify.app/)
 ---
 
 💡 Always learning, building, and exploring new technologies.
